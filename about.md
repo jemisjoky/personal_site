@@ -1,7 +1,6 @@
 ---
-layout: page
-title: "About Me"
-link_title: "About"
+layout: default
+title: "About"
 permalink: /about/
 ---
 

@@ -16,17 +16,16 @@
 title: Jemisjoky
 email: jmjacobmiller@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Science, travel, and shenanigans
+  Shenanigans Galore
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jemisjoky
 github_username:  jemisjoky
+github: "personal page"
+#twitter_username: jemisjoky
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-architect
-#theme: minima
-remote_theme: pages-themes/architect
 plugins:
   - jekyll-feed
 
