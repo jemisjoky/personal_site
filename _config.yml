@@ -25,12 +25,15 @@ github: "personal page"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
-# Header pages, which are linked to in the top nav bar
-header_pages: about.md
+# Header pages which are linked to in top nav bar
+header_pages:
+  - about.md
+  - work.md
+  - travel.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

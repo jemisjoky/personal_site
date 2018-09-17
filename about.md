@@ -3,23 +3,20 @@ layout: default
 title: "About"
 permalink: /about/
 ---
+![Mmmm... sopapillas]({{site.baseurl}}/assets/2honeys1sop.jpg){:height="50%" width="50%"}
 
-I'm Jacob Miller, a kid with a bubbly personality and a wide range of interests. I've had a huge love for math and science for as long as I can remember, and that passion has led me to pursue engineering in college, quantum computation and physics in grad school, and now computer science and machine learning in my working life. That may sound eclectic, but my guiding light has always been a fascination with the interface between abstract mathematical models and the real-world complexities they hope to capture. These considerations stand at the heart of science, and are something I've been lucky to work on at length throughout my career.
+I'm Jacob Miller, a kid with a bubbly personality and a whole slew of interests. I've been a nerd practically since birth, a tendency further spurred on by an engineering education at Olin College and a graduate career studying [exotic architectures](https://digitalrepository.unm.edu/phyc_etds/149/) for quantum computation. Although the details and focus of my technical interests have changed as I've grown, my guiding light has always been a complete fascination with the definite yet elusive link tying together abstract mathematical models and the real-world complexities they attempt to describe. More recently, this fascination has turned me towards the world of machine learning, where I'm [hell-bent]({{site.baseurl}}/work.html) on developing useful theoretical frameworks to better categorize the diverse behavior encountered in modern deep learning research.
 
-On a different note, I've also had a steady interest in East Asia ever since I was a little kid pretending to do kung fu in the woods of Vermont. As I've gotten older, those interests have largely revolved around Chinese history and culture, and being able to study Mandarin for 5 months in Beijing during college really helped broaden my horizons on that front. After completing my phd in physics, I embarked on a 4 month backpacking and language immersion trip through Taiwan, mainland China, South Korea, and Japan, where I met a lot of new friends and reaffirmed my interest of East Asian history, culture, and politics.
-
-And now it's on to the next adventure, this time into the beautiful and sublime weirdness of deep learning. I'm still a pretty new to the field, but am picking it up as I go, spurred on by the mind-blowing applications of the subject. And what's even better, there's still _a lot_ of interesting work to be done. Watch out world, here we come!
+I also have interests that don't involve math or science or computers. I travel a lot, and view the whole enterprise as a great opportunity to meet humanity in all our wonderfully many forms. I'm a bit of a nerd about Chinese history, culture, and language, and recently completed a four month backpacking and [language immersion trip]({{site.baseurl}}/travel.html) through East Asia. I love dancing to good music, drinking good tea, and spending time with those who are near and dear to me.
 
 ## What's with the website name?
 
-Oh yeah, I'm a big James Joyce fan. The first time I started wading through Finnegans Wake, Joyce's [madcap masterpiece](http://www.trentu.ca/faculty/jjoyce/fw-3.htm), I stumbled across the line,
+I'm a James Joyce fan, and encountered this unlikely statement while reading (okay, more like skimming) the epic [_Finnegans Wake_](https://en.wikipedia.org/wiki/Finnegans_Wake):
 
 > Shem is short for Shemus as Jem is joky for Jacob.
 
-The phrase "_Jem is joky for Jacob_" struck me as an incredible coincidence, since my initials are JEM, my given name is Jacob, and I'm pretty joky (as far as Jacobs go). This website won't capture all of that, but my overriding hope is that, as Joyce put it,
-
-> Putting truth and untruth together a shot may be made at what this hybrid actually was like to look at. 
+The phrase "_Jem is joky for Jacob_" struck me as an incredible coincidence, since my initials are JEM, my given name is Jacob, and I'm rather a joky fellow. And thus _jemisjoky_ was born.
 
 ## Website credits
 
-This site is generated using Jekyll and hosted on Github.
+This site is generated using Jekyll and hosted on Github Pages.
