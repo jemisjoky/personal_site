@@ -6,7 +6,9 @@ title: Travel
 
 ![Scenes from the backpacking trip]({{site.baseurl}}/assets/east_asia_montage.jpg)
 
-I've been interested in Asia for a long time, ever since my childhood pretending to do kung fu in the woods of Vermont. As I got older these interests turned more towards China, especially following a semester-long Mandarin immersion program in Beijing during college. After finishing grad school 7 years later, I had a wonderful opportunity to do some extended traveling, and was dying to get back to Asia once more. After wrapping up a motorcycle trip in Fall 2017, I headed out in January 2018 for Taiwan, which was my jumping off point for a lovely four month romp around East Asia. I biked around Taiwan, saw old friends in South Korea and Japan, and spent a long time meandering through China and learning more about its long and fascinating history.
+I've been interested in Asia for a long time, ever since my childhood pretending to do kung fu in the woods of Vermont. As I got older these interests turned more towards China, especially following a semester-long Mandarin immersion program in Beijing during college.
+
+After finishing grad school 7 years later, I had a wonderful opportunity to do some extended traveling, and was dying to get back to Asia once more. After wrapping up a motorcycle trip in Fall 2017, I headed out in January 2018 for Taiwan, which was my jumping off point for a lovely four month romp around East Asia. I biked around Taiwan, saw old friends in South Korea and Japan, and spent a long time meandering through China and learning more about its long and fascinating history.
 
 [![Slideshow about travels in Asia]({{site.baseurl}}/assets/east_asia_slideshow_title.jpg){:height="50%" width="50%"}]({{site.baseurl}}/assets/east_asia_slideshow.pdf)
 
