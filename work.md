@@ -6,7 +6,7 @@ title: Work
 
 ![Diploma man]({{site.baseurl}}/assets/finish_line.jpg){:height="50%" width="50%"}
 
-Are you an employer with a focus on deep learning and a desire for new ideas? I'm currently on the market, and am looking for a workplace with a friendly atmosphere and difficult, open-ended problems to work on. I'm still a bit undecided between employment in industry vs. academia, but either way am excited about getting to work with interesting machine learning models at a larger scale. You can find the relevant information in [my resume]({{site.baseurl}}/assets/cv.pdf), but here are some noteworthy highlights: `<shameless plug>`
+Are you an employer with a focus on deep learning and a desire for new ideas? I'm currently on the market, and am looking for a workplace with a friendly atmosphere and difficult, open-ended problems to work on. I'm still a bit undecided between employment in industry vs. academia, but either way am excited about getting to work with interesting machine learning models at a larger scale. You can find the relevant information in [my resume]({{site.baseurl}}/assets/resume.pdf), but here are some noteworthy highlights: `<shameless plug>`
 
 * I got my PhD in 2017 doing work which earned the Chair's Award for [best UNM physics dissertation](https://cquic.unm.edu/cquic-news/chairs-award-or-best-dissertation-in-physics/) of the year.
 
