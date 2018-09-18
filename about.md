@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "About"
-permalink: /about/
 ---
 ![Mmmm... sopapillas]({{site.baseurl}}/assets/2honeys1sop.jpg){:height="50%" width="50%"}
 
