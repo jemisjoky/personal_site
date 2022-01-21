@@ -1,0 +1,17 @@
+Initio: https://www.free-css.com/free-css-templates/page274/initio
+    * Professional, a bit slick.
+    * Sidebar with separate scrollability.
+Teaflower: https://www.free-css.com/free-css-templates/page272/tea-flower
+    * 茶茶茶!
+    * Soothing, cozy.
+Comparto: https://www.free-css.com/free-css-templates/page266/comparto
+    * Sharp, modern asthetic.
+    * Single linear page.
+    * Cool image highlight reactions.
+Reflux: https://www.free-css.com/free-css-templates/page261/reflux
+    * Classic sidebar-driven personal page.
+    * Fixed background image has nice effect.
+    * Separate scrollability.
+Author: https://www.free-css.com/free-css-templates/page255/author
+    * Meant for authors, looks really smart.
+    * Some of the details are a bit much, but the background layout is nice.
